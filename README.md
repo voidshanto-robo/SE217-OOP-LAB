@@ -8,4 +8,4 @@
 
 ## Description
 
-This repository showcases my Java programs, practical lab assignments, and object-oriented programming projects developed as part of the SE217 course, reflecting my journey of learning, problem-solving, and building efficient software. Make my repository description more conciseHighlight my Java and OOP skills
+A collection of my Java coding adventures, OOP concepts, and hands-on lab projects for SE217 — learning, building, and debugging one line at a time.
